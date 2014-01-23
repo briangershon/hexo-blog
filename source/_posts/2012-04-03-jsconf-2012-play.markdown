@@ -1,0 +1,30 @@
+---
+layout: post
+title: "JSConf 2012: Play"
+date: 2012-04-03 07:50
+comments: true
+categories: ['JavaScript', 'jsconf2012']
+---
+On my flight to JSConf, the Southwest Airlines magazine kicked off the topic of Play in [Its called Play](http://spiritmag.com/features/article/its_called_play/)
+
+This theme continued throughout JSConf 2012's Day One.
+
+Just a **few** things to play with:
+
+* Registration included getting an NFC [Poken](http://www.poken.com), taking pictures with guns and cowboy gear, and a bag of sponsor loot.
+
+* All attendees were given the first public Boot2Gecko phones from Mozilla with a [challenge to hack it and build apps](https://wiki.mozilla.org/B2G/DeveloperPhone) by conference end.
+
+* Stephan Herhut showed us the possibilities with true parallel programming and JavaScript using [Intel RiverTail](https://github.com/rivertrail/rivertrail/wiki).
+
+* Paul Irish showed us the latest in JavaScript tooling. His [presentation](http://dl.dropbox.com/u/39519/talks/jsconf-tools/index.html).
+
+* Max Shawabkeh walked us through [repl.it](http://repl.it/) which runs 17 languages natively in JavaScript, including Python and Ruby. This is a great environment for new students to programming (since the only dependency is a web browser), or people wanting to play with compiler technology.
+
+* Remy Sharp talked about using JavaScript to "Build Anything" and gave a list of things he's like to see browsers do, such as real-time notifications, strong desktop integration, direct access to hardware, ability to local install a JavaScript app, "go naked" (no browser chrome visible). He also talked about things we should be using today, such as web storage instead of cookies, using HTML5 tags for web form validation (i.e. instead of a crazy client-side email regular expression, use &lt;input type=email&gt;), History API, AppCache manifest for performance (since just relying on browser cache may mean your files disappear after cache fills up), EventSource particularly for mainly server-to-client pushes (in addition to websockets), Drag and Drop.
+
+* David Nolen talked directly about the importance of Play and how ClosureScript was that playground for him. He was also inspired by the book "[The Reasoned Schemer](http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=10663)".
+
+* Dan Ingalls, "principal architect, designer and implementor of five generations of Smalltalk environments" took us through [Lively Kernel](http://www.lively-kernel.org/) which you need to see in action.  It "provides a complete platform for web applications, including dynamic graphics, network access, and development tools" all in the browser.
+
+* Attendees left Day One with new cowboy hats, and many rode the bull later that night at [Saddle Ranch](http://www.srrestaurants.com/).
