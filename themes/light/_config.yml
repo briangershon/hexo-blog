@@ -1,6 +1,6 @@
 menu:
   Home: /
-  Archives: /archives
+  Archives: /blog/archives
 
 widgets:
 - search
@@ -12,7 +12,7 @@ widgets:
 excerpt_link: Read More
 
 twitter:
-  username:
+  username: brianfive
   show_replies: false
   tweet_count: 5
 
@@ -26,13 +26,13 @@ addthis:
 
 fancybox: true
 
-google_analytics:
-rss:
+google_analytics: UA-1742529-10
+rss: http://feeds.feedburner.com/evolvingbits
 
-comment_provider: facebook
-# Facebook comment
-facebook:
-  appid: 123456789012345
-  comment_count: 5
-  comment_width: 840
-  comment_colorscheme: light
+# comment_provider: facebook
+# # Facebook comment
+# facebook:
+#   appid: 123456789012345
+#   comment_count: 5
+#   comment_width: 840
+#   comment_colorscheme: light
