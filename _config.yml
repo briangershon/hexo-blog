@@ -13,8 +13,8 @@ language:
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://blog.evolvingbits.com
-root: /blog/
-permalink: :year/:month/:day/:title/
+root: /
+permalink: blog/:year/:month/:day/:title/
 tag_dir: tags
 archive_dir: archives
 category_dir: categories
