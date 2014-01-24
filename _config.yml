@@ -3,16 +3,16 @@
 ## Source: https://github.com/tommy351/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: Evolving Bits
+subtitle: JavaScript. iOS.
 description:
-author: John Doe
+author: Brian Gershon
 email:
 language:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://blog.evolvingbits.com
 root: /
 permalink: :year/:month/:day/:title/
 tag_dir: tags
@@ -79,7 +79,7 @@ disqus_shortname:
 # Extensions
 ## Plugins: https://github.com/tommy351/hexo/wiki/Plugins
 ## Themes: https://github.com/tommy351/hexo/wiki/Themes
-theme: landscape
+theme: light
 exclude_generator:
 
 # Markdown
