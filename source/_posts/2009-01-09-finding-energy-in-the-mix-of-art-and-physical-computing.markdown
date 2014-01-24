@@ -4,8 +4,9 @@ layout: post
 slug: finding-energy-in-the-mix-of-art-and-physical-computing
 status: publish
 title: Finding Energy in the Mix of Art and Physical Computing
-wordpress_id: '49'
 categories:
+- Physical Computing
+tags:
 - Arduino
 - Physical Computing
 ---

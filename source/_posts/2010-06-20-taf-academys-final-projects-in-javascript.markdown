@@ -4,8 +4,9 @@ layout: post
 slug: taf-academys-final-projects-in-javascript
 status: publish
 title: TAF Academy's Final Projects in JavaScript
-wordpress_id: '187'
 categories:
+- Programming
+tags:
 - Seattle
 - Web Collective Inc
 ---

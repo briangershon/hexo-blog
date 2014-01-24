@@ -4,8 +4,8 @@ layout: post
 slug: effortless-email-management-with-gtd-and-remember-the-milk
 status: publish
 title: Effortless Email Management with GTD and Remember the Milk
-wordpress_id: '47'
-categories:
+
+tags:
 - GTD
 - Plone
 ---

@@ -3,7 +3,9 @@ layout: post
 title: "Thanks NotConf for a Great JSConf 2012 Pre-conference"
 date: 2012-04-02 07:36
 comments: true
-categories: ['JavaScript', 'jsconf2012']
+categories:
+- Programming
+tags: ['JavaScript', 'jsconf2012']
 ---
 Arriving PHX was flawless, the Twilio-sponsored shuttle was there to pick me up from the airport.
 

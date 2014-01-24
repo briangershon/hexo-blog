@@ -4,8 +4,9 @@ layout: post
 slug: what-is-collective-metanav
 status: publish
 title: What is Collective MetaNav?
-wordpress_id: '23'
 categories:
+- Programming
+tags:
 - Plone
 ---
 

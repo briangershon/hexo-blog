@@ -4,8 +4,9 @@ layout: post
 slug: extra-life-for-my-macbook-pro-with-snow-leopard-and-inexpensive-hardware
 status: publish
 title: Extra life for my MacBook Pro with Snow Leopard and inexpensive hardware
-wordpress_id: '74'
 categories:
+- Apple
+tags:
 - Snow Leopard
 ---
 

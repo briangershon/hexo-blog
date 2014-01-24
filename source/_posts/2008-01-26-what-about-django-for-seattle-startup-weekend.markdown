@@ -4,8 +4,9 @@ layout: post
 slug: what-about-django-for-seattle-startup-weekend
 status: publish
 title: What about Django for Seattle Startup Weekend?
-wordpress_id: '24'
 categories:
+- Programming
+tags:
 - Python
 - Seattle
 - Seattle Startup Weekend

@@ -4,8 +4,9 @@ layout: post
 slug: sampleremember-plone-product-gives-users-a-starting-place-to-use-remember
 status: publish
 title: Build your own remember-based content with sampleremember Plone product
-wordpress_id: '12'
 categories:
+- Programming
+tags:
 - Plone
 ---
 

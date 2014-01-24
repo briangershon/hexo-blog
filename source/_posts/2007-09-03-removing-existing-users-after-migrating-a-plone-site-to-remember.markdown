@@ -4,8 +4,9 @@ layout: post
 slug: removing-existing-users-after-migrating-a-plone-site-to-remember
 status: publish
 title: Removing existing users after migrating a Plone site to 'remember'
-wordpress_id: '11'
 categories:
+- Programming
+tags:
 - Plone
 ---
 

@@ -4,8 +4,8 @@ layout: post
 slug: taming-twitter-and-rss-in-2009
 status: publish
 title: Taming Twitter and RSS in 2009
-wordpress_id: '48'
-categories:
+
+tags:
 - Blogging
 - Microblogging
 - Twitter

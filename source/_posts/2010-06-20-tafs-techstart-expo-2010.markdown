@@ -4,8 +4,9 @@ layout: post
 slug: tafs-techstart-expo-2010
 status: publish
 title: TAF's TechStart Expo 2010
-wordpress_id: '194'
 categories:
+- Physical Computing
+tags:
 - Physical Computing
 - Seattle
 - Web Collective Inc

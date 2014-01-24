@@ -4,8 +4,9 @@ layout: post
 slug: djangocon-2010-highlights-videos
 status: publish
 title: Highlights from DjangoCon 2010 (and videos to watch)
-wordpress_id: '202'
 categories:
+- Programming
+tags:
 - Django
 ---
 

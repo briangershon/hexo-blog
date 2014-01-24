@@ -3,7 +3,9 @@ layout: post
 title: "iOS Automated Testing: Refactored"
 date: 2012-09-09 15:53
 comments: true
-categories: [iOS, JavaScript, testing, 360iDev] 
+categories:
+- Programming
+tags: [iOS, JavaScript, testing, 360iDev] 
 ---
 My mobile projects lately include various combinations of JavaScript and Objective-C. Usually either 100% native iOS, or JavaScript running on a native iOS (or Android) layer.
 

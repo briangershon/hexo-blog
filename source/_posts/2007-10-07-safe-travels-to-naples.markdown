@@ -4,8 +4,9 @@ layout: post
 slug: safe-travels-to-naples
 status: publish
 title: Safe travels to Naples!
-wordpress_id: '22'
 categories:
+- Programming
+tags:
 - Plone
 - Seattle
 ---

@@ -4,8 +4,9 @@ layout: post
 slug: plone-zope3-and-django-love-fest
 status: publish
 title: Plone, Zope3 and Django Love Fest
-wordpress_id: '30'
 categories:
+- Programming
+tags:
 - Django
 - Plone
 ---

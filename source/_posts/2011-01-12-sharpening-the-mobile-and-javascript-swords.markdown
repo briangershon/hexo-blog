@@ -4,8 +4,10 @@ layout: post
 slug: sharpening-the-mobile-and-javascript-swords
 status: publish
 title: Sharpening the Mobile and JavaScript Swords
-wordpress_id: '228'
 categories:
+- Programming
+- Mobile
+tags:
 - JavaScript
 - mobile
 - node.js

@@ -4,10 +4,10 @@ layout: post
 slug: inline-editing-of-multi-row-data-in-plone-with-kss
 status: publish
 title: Inline Editing of Multi-row Data in Plone with KSS
-wordpress_id: '34'
 categories:
+- Programming
+tags:
 - GTD
-- KSS
 - Plone
 ---
 

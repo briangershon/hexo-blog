@@ -4,8 +4,9 @@ layout: post
 slug: mixing-cooperative-business-and-open-source
 status: publish
 title: Mixing Cooperative Business and Open Source
-wordpress_id: '40'
 categories:
+- Open Source
+tags:
 - co-op
 - cooperative
 - Plone

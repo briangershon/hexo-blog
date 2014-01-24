@@ -4,8 +4,9 @@ layout: post
 slug: collectivegtd-for-plone-31-beta-2-released
 status: publish
 title: CollectiveGTD for Plone 3.1 (Beta 2 Released)
-wordpress_id: '41'
 categories:
+- Programming
+tags:
 - GTD
 - Plone
 ---

@@ -4,8 +4,9 @@ layout: post
 slug: pycon2009-tutorials-real-world-django-optimizations-in-python
 status: publish
 title: 'PyCon2009 Tutorial Recap: Real World Django / Optimizations in Python'
-wordpress_id: '54'
 categories:
+- Programming
+tags:
 - Django
 - Plone
 - Python

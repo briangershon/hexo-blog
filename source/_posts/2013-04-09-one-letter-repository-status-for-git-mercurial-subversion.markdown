@@ -3,7 +3,9 @@ layout: post
 title: "One Letter Repository Status for Git, Mercurial and Subversion"
 date: 2013-04-09 08:53
 comments: true
-categories: ["git", "mercurial", "subversion"]
+categories:
+- Programming
+tags: ["git", "mercurial", "subversion"]
 ---
 
 These days we're using a variety of version control systems and switching between them regularly.

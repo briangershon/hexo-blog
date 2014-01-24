@@ -4,8 +4,9 @@ layout: post
 slug: blogging-on-plone-3-looking-forward-to-quills-16
 status: publish
 title: 'Blogging on Plone 3: Looking forward to Quills 1.6'
-wordpress_id: '8'
 categories:
+- Programming
+tags:
 - Plone
 - Zope3
 ---

@@ -3,7 +3,9 @@ layout: post
 title: "Testing JavaScript Code Running Google Closure Library using Mocha and PhantomJS (or Jasmine)"
 date: 2012-10-24 12:24
 comments: true
-categories: ["JavaScript", "testing"]
+categories:
+- Programming
+tags: ["JavaScript", "testing"]
 ---
 
 Here are several options for setting up JavaScript unit testing for code built with the Google Closure Library, albeit these options are helpful for testing a wide variety of JavaScript projects.

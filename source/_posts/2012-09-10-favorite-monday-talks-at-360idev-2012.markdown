@@ -3,7 +3,9 @@ layout: post
 title: "Favorite Monday Talks at 360iDev 2012"
 date: 2012-09-10 17:24
 comments: true
-categories: [iOS, JavaScript, 360iDev]
+categories:
+- Programming
+tags: [iOS, JavaScript, 360iDev]
 ---
 My favorite talks are the developer-heavy ones. Here were three I enjoyed today.
 

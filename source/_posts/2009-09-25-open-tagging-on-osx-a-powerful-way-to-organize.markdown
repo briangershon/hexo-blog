@@ -4,8 +4,9 @@ layout: post
 slug: open-tagging-on-osx-a-powerful-way-to-organize
 status: publish
 title: 'Open Tagging on OSX: A Powerful Way to Organize'
-wordpress_id: '137'
 categories:
+- Apple
+tags:
 - GTD
 - OSX
 - Snow Leopard

@@ -4,8 +4,9 @@ layout: post
 slug: collaborative-gtd-for-python-and-plone
 status: publish
 title: Collaborative GTD for Python and Plone
-wordpress_id: '18'
 categories:
+- Programming
+tags:
 - Python
 ---
 

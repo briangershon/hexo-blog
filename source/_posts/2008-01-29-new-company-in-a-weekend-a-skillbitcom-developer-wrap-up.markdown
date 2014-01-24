@@ -4,10 +4,10 @@ layout: post
 slug: new-company-in-a-weekend-a-skillbitcom-developer-wrap-up
 status: publish
 title: 'New Company in a Weekend: A Skillbit.com Developer Wrap-up'
-wordpress_id: '25'
 categories:
+- Programming
+tags:
 - Seattle Startup Weekend
-- Skillbit.com
 ---
 
 ![Seattle Startup Weekend](/images/post/2008/01/sws-notebook2.jpg)

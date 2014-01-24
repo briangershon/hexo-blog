@@ -3,7 +3,9 @@ layout: post
 title: "With Great JavaScript Comes Great Inspiration"
 date: 2012-04-04 09:15
 comments: true
-categories: ['JavaScript', 'jsconf2012', 'boot2gecko']
+categories:
+- Programming
+tags: ['JavaScript', 'jsconf2012', 'boot2gecko']
 ---
 I'd say the theme of Day Two at JSConf 2012 was **inspiration**, and was another great day of talks:
 

@@ -4,8 +4,9 @@ layout: post
 slug: snow-leopard-smooth-except-python-3264-cocktail
 status: publish
 title: Snow Leopard Smooth Except Python 32/64 Cocktail
-wordpress_id: '88'
 categories:
+- Programming
+tags:
 - Django
 - Plone
 - Python

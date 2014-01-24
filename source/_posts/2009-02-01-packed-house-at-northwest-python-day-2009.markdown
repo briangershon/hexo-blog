@@ -4,8 +4,9 @@ layout: post
 slug: packed-house-at-northwest-python-day-2009
 status: publish
 title: Packed House at Northwest Python Day 2009
-wordpress_id: '52'
 categories:
+- Programming
+tags:
 - Google App Engine
 - Python
 - Seattle

@@ -4,8 +4,7 @@ layout: post
 slug: web-collective-featured-in-sustainable-industries-journal
 status: publish
 title: Web Collective featured in Sustainable Industries Journal
-wordpress_id: '16'
-categories:
+tags:
 - cooperative
 - Seattle
 - Web Collective Inc

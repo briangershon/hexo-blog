@@ -4,8 +4,9 @@ layout: post
 slug: agility-was-one-of-the-themes-of-plone-conference-2008
 status: publish
 title: Agility was one of the themes of Plone Conference 2008
-wordpress_id: '45'
 categories:
+- Programming
+tags:
 - cooperative
 - Plone
 - Web Collective Inc

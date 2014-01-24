@@ -4,8 +4,7 @@ layout: post
 slug: social-and-economic-justice-the-interra-project-center-for-ethical-leadership-and-plone
 status: publish
 title: Social and Economic Justice, The Interra Project, Center for Ethical Leadership -- and Plone
-wordpress_id: '53'
-categories:
+tags:
 - Plone
 - Web Collective Inc
 ---

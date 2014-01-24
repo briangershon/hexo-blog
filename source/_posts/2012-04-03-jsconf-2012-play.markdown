@@ -3,7 +3,9 @@ layout: post
 title: "JSConf 2012: Play"
 date: 2012-04-03 07:50
 comments: true
-categories: ['JavaScript', 'jsconf2012']
+categories:
+- Programming
+tags: ['JavaScript', 'jsconf2012']
 ---
 On my flight to JSConf, the Southwest Airlines magazine kicked off the topic of Play in [Its called Play](http://spiritmag.com/features/article/its_called_play/)
 

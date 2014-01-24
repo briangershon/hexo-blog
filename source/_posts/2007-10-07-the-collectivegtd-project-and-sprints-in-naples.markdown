@@ -4,8 +4,9 @@ layout: post
 slug: the-collectivegtd-project-and-sprints-in-naples
 status: publish
 title: The CollectiveGTD Project (and sprints in Naples)
-wordpress_id: '19'
 categories:
+- Programming
+tags:
 - Plone
 ---
 

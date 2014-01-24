@@ -4,8 +4,9 @@ layout: post
 slug: captchas-a-spam-prevention-feature-for-your-plone-forms
 status: publish
 title: 'Captchas: A spam prevention feature for your Plone forms'
-wordpress_id: '13'
 categories:
+- Programming
+tags:
 - Plone
 ---
 

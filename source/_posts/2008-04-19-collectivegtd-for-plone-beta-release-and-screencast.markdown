@@ -4,8 +4,9 @@ layout: post
 slug: collectivegtd-for-plone-beta-release-and-screencast
 status: publish
 title: 'CollectiveGTD for Plone: Beta Release (and screencast)'
-wordpress_id: '31'
 categories:
+- Programming
+tags:
 - GTD
 - Plone
 ---

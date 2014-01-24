@@ -3,7 +3,9 @@ layout: post
 title: "Favorite Tuesday Talks at 360iDev 2012"
 date: 2012-09-12 11:46
 comments: true
-categories: [iOS, 360iDev]
+categories:
+- Programming
+tags: [iOS, 360iDev]
 ---
 Here were four talks I enjoyed, plus Game Jam.
 

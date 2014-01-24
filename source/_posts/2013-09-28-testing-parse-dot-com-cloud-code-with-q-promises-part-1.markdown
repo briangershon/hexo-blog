@@ -3,7 +3,11 @@ layout: post
 title: "Testing Parse.com Cloud Code using Q Promises: Part 1"
 date: 2013-09-28 17:07
 comments: true
-categories: ["Parse.com", "JavaScript"]
+categories:
+- Programming
+tags:
+- Parse.com
+- JavaScript
 ---
 I've been playing with Parse.com Cloud Code, and wanted to write more code offline so I didn't have to keep pushing to the cloud, plus wanted to use Test Driven Development.
 

@@ -4,8 +4,9 @@ layout: post
 slug: enjoying-the-djangocon2008-keynote-videos
 status: publish
 title: Enjoying the DjangoCon2008 Keynote Videos
-wordpress_id: '43'
 categories:
+- Programming
+tags:
 - Django
 - Python
 - Zope3

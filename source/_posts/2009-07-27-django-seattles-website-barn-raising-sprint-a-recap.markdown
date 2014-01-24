@@ -4,8 +4,9 @@ layout: post
 slug: django-seattles-website-barn-raising-sprint-a-recap
 status: publish
 title: 'Django Seattle''s Website Barn Raising Sprint: A Recap'
-wordpress_id: '57'
 categories:
+- Programming
+tags:
 - Django
 - Python
 - Seattle

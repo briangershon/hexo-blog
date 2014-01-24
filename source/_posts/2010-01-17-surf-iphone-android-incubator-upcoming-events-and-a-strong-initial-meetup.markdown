@@ -4,8 +4,9 @@ layout: post
 slug: surf-iphone-android-incubator-upcoming-events-and-a-strong-initial-meetup
 status: publish
 title: 'SURF iPhone and Android Incubator: Upcoming events and a strong initial Meetup'
-wordpress_id: '161'
 categories:
+- Programming
+tags:
 - iPhone
 ---
 

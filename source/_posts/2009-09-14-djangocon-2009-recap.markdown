@@ -4,8 +4,9 @@ layout: post
 slug: djangocon-2009-recap
 status: publish
 title: DjangoCon 2009 Recap
-wordpress_id: '127'
 categories:
+- Programming
+tags:
 - Django
 - Python
 ---
